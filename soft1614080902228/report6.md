@@ -28,7 +28,7 @@
 6、在手机上测试APP。
 
 ## 实验结果  
-   https://github.com/hzulwy/android-labs-2018/blob/master/soft1614080902228/%E6%8D%95%E8%8E%B76.GIF
+  ![](https://github.com/Edison-Yan/android-labs-2018/blob/master/soft1614080902210/6.PNG)
 
 ## 实验体会
 一开始做这个实验的时候，我是按照java的网络通信的格式来写的，后来不知道什么原因，一直连不上网，就去网上参考了很多代码，也借鉴一些同学的代码，
